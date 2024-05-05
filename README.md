@@ -11,16 +11,16 @@ Pandey, Pankaj . Mastering Data Science: Best Portfolio Projects for Your Data C
   - [Matplotlib](https://matplotlib.org/stable/users/index.html)
 
 ## Project Highlights:
-Data Cleaning
-Data Exploration
-Data Visualization
-Insights and Analysis
-Presentation
-Bonus: TBD
+- Data Cleaning
+- Data Exploration
+- Data Visualization
+- Insights and Analysis
+- Presentation
+- Bonus: TBD
 
 ## Purpose of the project:
 - Demonstrate critical skills for EDA:
-- Data cleaning
-- exploration
-- visualization
-- extract insightful information using real world data
+  - Data cleaning
+  - Exploration
+  - Visualization
+  - Extract insightful information using real world data
