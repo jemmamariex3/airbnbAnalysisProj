@@ -5,10 +5,10 @@ This project demonstrates my technical and analytical skills in this exploratory
 Pandey, Pankaj . Mastering Data Science: Best Portfolio Projects for Your Data Career (p. 13) - 1.1 Airbnb Data Anaysis
 
 ## Tools:
-[2023 Airbnb Dataset](https://website-name.com)
-Python
-  [Pandas](https://pandas.pydata.org/docs/)
-  [Matplotlib](https://matplotlib.org/stable/users/index.html)
+- [2023 Airbnb Dataset](https://website-name.com)
+- Python
+  - [Pandas](https://pandas.pydata.org/docs/)
+  - [Matplotlib](https://matplotlib.org/stable/users/index.html)
 
 ## Project Highlights:
 Data Cleaning
